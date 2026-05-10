@@ -1,0 +1,36 @@
+Construction Grammar is a perspective on language deeply rooted in cognitive 
+linguistics. Its main idea is that linguistic knowledge can be exhaustively described as 
+a structured inventory of form-meaning pairs. While this perspective has been proven 
+extremely useful for the description of a large array of linguistic phenomena, a factor 
+of considerable influence on the development of construction grammar has been the 
+way in which it was embraced by a broad range of areas of applied linguistics, such as 
+language acquisition, language emergence, interactional linguistics, language change, 
+language typology, and last but not least second language acquisition. 
+ 
+2. Construction Grammar: The central ideas 
+Construction Grammar developed as an alternative to the position that grammar 
+consists of formal rules that act upon a lexicon, which comprises only idiosyncratic 
+information (Fillmore 1988). In such a view, idioms are notoriously problematic since 
+they do not only constitute exceptions, but besides exhibiting idiosyncratic properties, 
+they also behave regularly with respect to many aspects of grammar and phonology; 
+that is, even if they are associated with non-compositional semantics and may be 
+syntactically peculiar in one way or another (for instance, by and large), many of their 
+properties are just like any other expression of the same language (Fillmore et al. 
+1988). In addition, many idioms have open, schematic slots, such as the ‘what’s X 
+doing Y’ construction (as in ‘what’s the fly doing in my soup?’, Kay & Fillmore 
+1999). This construction is conventionally associated with rich semantics and 
+pragmatics that is not derivable from the meanings of its parts; in addition, it exhibits 
+peculiar syntactic properties, such that it must contain do, be, and what; do has to be 
+in the present participle form and neither do nor be may be negated. Moreover, the 
+construction has to be in the progressive aspect even if the verb otherwise would not 
+allow the progressive, as in: ‘What’s he doing knowing the answer?’ Outside this 
+construction,  ’He is knowing the answer’ would not normally be used. However, in 
+all other respects, the construction follows the general rules of English and has open 
+slots for regular noun and verb phrases. Thus, schematic and idiosyncratic 
+information are both combined in a construction in peculiar ways that need to be 
+stated specifically for this construction. 
+ 
+Furthermore, collocations are ubiquitous in language, and even highly schematic 
+forms like the ditransitive (a construction with two objects, such as she mailed him a book) may be associated with a certain, non-compositional meaning. Here, the idea is that, for instance, the transfer reading of the ditransitive verb is directly associated with the construction itself, and not necessarily with the verb (Goldberg 1995, 2006). Given that idiosyncratic and general information co-occur in all kinds of combinations, Fillmore (1988, 1989; Fillmore et al. 1988) concludes that grammar and lexicon form a continuum. From this, he develops the idea that grammar itself is an inventory of signs, assuming that grammar consists entirely of form-meaning pairs of varying degrees of schematicity, the so-called constructions (Fillmore 1988, 1989).
+book) may be associated with a certain, non-compositional meaning
+ 
